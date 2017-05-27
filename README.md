@@ -1,2 +1,4 @@
 # webmention-replies
-Re-add the webmention comment type to webmention replies for easier filtering
+
+Re-adds the webmention comment type to the WP database for webmention replies for easier filtering.
+This is removed by the Webmentions plugin.
